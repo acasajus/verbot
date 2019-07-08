@@ -1,0 +1,5 @@
+Url = "http://localhost:8065"
+Login = "bot@example.com"
+Password = "password1"
+Team = "test"
+DebugChannel = "verbot-log"
